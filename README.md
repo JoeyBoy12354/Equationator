@@ -1,2 +1,2 @@
 # Equationator
-# Does equations
+Does equations
